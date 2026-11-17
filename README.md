@@ -1,6 +1,6 @@
 # District Clinic Appointment & Queue System
 
-![CI](https://github.com/pkay025/team-clinic-queue/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/pkay025/team-2-clinic-queue/actions/workflows/ci.yml/badge.svg)
 
 DCIT 415 Advanced Software Engineering Capstone Project, University of Ghana (First Semester 2026/2027).
 
