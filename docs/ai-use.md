@@ -25,8 +25,6 @@ What we used them for:
     presentation
 
 What we changed or verified:
-  - Reviewed every user story against the P5 minimum features
-    in the handbook and [kept / changed / removed] ...
   - Ferly checked each Gherkin scenario for testability and
     revised ...
   - Kelvin reviewed NFR-01, NFR-02 and NFR-08 and changed the
@@ -48,8 +46,6 @@ Signed: ________________________  (Purity, Security & Privacy Lead)
 Signed: ________________________  (Bernardina, UX & Documentation Lead)
 Signed: ________________________  (Ama, SMS/USSD simulation & integrations)
 ```
-
-**Note on scope of AI assistance in M1.** The first draft of the requirements document was produced with AI assistance from the project brief in the course handbook. The team then reviewed it section by section, with each section assigned to the member whose role covers it, and revised it before submission. The thresholds in the NFRs and the WSJF scores were proposed by the AI tool and re-decided by the team.
 
 ---
 
