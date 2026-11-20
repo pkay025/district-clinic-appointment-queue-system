@@ -45,11 +45,11 @@ docker-compose up --build
 | Name | Role | GitHub |
 | --- | --- | --- |
 | Emmanuel Nunoo Mensah | Product Owner / Team Lead | 
-| | Architect / Tech Lead | |
-| | QA Lead | |
+| Emmanuel Cobbinah | Architect / Tech Lead | |
+| Felicity Dzidzorli Zanu - Tsikata | QA Lead | |
 | | DevOps / Platform Lead | |
 | | Security & Privacy Lead | |
-| | UX & Documentation Lead | |
+| Ama Okyerewaa Ofori and Bernardina Nyanyuie Senadza | UX & Documentation Lead | |
 | | | |
 
 ## Repository structure
