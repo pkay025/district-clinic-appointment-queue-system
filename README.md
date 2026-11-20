@@ -82,7 +82,7 @@ docker-compose.yml
 
 | Milestone | Due | Status |
 | --- | --- | --- |
-| M1 Requirements | Week 4 | In progress |
+| M1 Requirements | Week 4 | Completed |
 | M2 Architecture | Week 6 | Not started |
 | M3 Code quality | Week 7 | Not started |
 | M4 Containerised prototype | Week 8 | Not started |
