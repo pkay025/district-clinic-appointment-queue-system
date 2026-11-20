@@ -45,11 +45,11 @@ docker-compose up --build
 | Name | Role | GitHub |
 | --- | --- | --- |
 | Emmanuel Nunoo Mensah | Product Owner / Team Lead | pkay025 |
-| Emmanuel Kwaku Duah Cobbinah | Architect / Tech Lead | |
+| Emmanuel Kwaku Duah Cobbinah | Architect / Tech Lead | emmanuelcobbinah007 |
 | Felicity Dzidzorli Zanu - Tsikata | QA Lead | Fel-Tsikata |
 | Kelvin Kwame Tetteh | DevOps / Platform Lead | kelvintk1 |
-| ⁠Purity Abena Kyei | Security & Privacy Lead | |
-| Ama Okyerewaa Ofori and Bernardina Nyanyuie Senadza | UX & Documentation Lead | |
+| ⁠Purity Abena Kyei | Security & Privacy Lead | Purity1919 |
+| Ama Okyerewaa Ofori and Bernardina Nyanyuie Senadza | UX & Documentation Lead | Oky-of and D-codes-it |
 
 ## Repository structure
 
